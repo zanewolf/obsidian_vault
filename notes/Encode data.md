@@ -1,0 +1,1 @@
+Data encoding is simply how one chooses to represent different facets of information. [[Marks & Channels]] are the different options, essentially, and the [[Gestalt Principes]] can be how those options are arranged to further encode more/different information. 

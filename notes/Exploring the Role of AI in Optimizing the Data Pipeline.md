@@ -1,0 +1,21 @@
+---
+tags: dataviz
+---
+- The pipeline: 
+	- collect, source
+		- ask it for specific summarized data
+			- ![[Pasted image 20230503124619.png]]
+			- ![[Pasted image 20230503124638.png]]
+		- potential problems: can only handle about 30-50 rows, data is only based on historical data and not current, since chatgpt 3 is not linked to the internet
+		- chatgpt for sheets
+		- write an API or scrape data
+			- ![[Pasted image 20230503124714.png]]
+	- scrub
+		- ![[Pasted image 20230503124842.png]]
+		- chatgpt for google sheets allows for more complex tasks, such as running an analysis
+			- ![[Pasted image 20230503125000.png]]
+	- analyze
+	- visualize
+		- ![[Pasted image 20230503125301.png]]
+- ethical issues
+	- ![[Pasted image 20230503125450.png]]

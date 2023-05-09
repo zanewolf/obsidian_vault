@@ -1,0 +1,14 @@
+{
+  "file-explorer:new-file-in-new-pane": [],
+  "editor:follow-link": [],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ]
+}

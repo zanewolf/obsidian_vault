@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "attachmentFolderPath": "media",
+  "autoPairBrackets": false,
+  "livePreview": true,
+  "defaultViewMode": "source"
+}

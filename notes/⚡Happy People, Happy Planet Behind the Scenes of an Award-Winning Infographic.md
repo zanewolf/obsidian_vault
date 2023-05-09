@@ -1,0 +1,20 @@
+---
+tags: dataviz
+---
+- how to work through a project
+	- First week
+		- choose a topic, only had one month to develop and submit, had to make a quick decision
+		- how can they add more value once they discovered that a dataset already had their original idea, a 'happy index'
+			- combine the index with an ecological footprint dataset to demonstrate the environmental costs of traditional measures of happiness
+	- Second week
+		- ugly chart week, early exploration
+		- had to understand each other's process and aesthetic better
+	- Third week
+		- early visual exploration
+		- selecting symbology
+			- happiness => smiling face => smile emoji
+		- how could symbology or legend be misinterpreted? 
+		- poster or interactive? 
+- lessons
+	- open communication
+	- divide tasks more efficiently - maybe by strength? 

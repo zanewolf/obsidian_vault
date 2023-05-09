@@ -1,0 +1,48 @@
+- Visualization Goals
+	- Record Information
+	- Analyze data to support reasoning
+	- Reveal pattern to  support hypotheses
+	- Communicate ideas to others
+![[VisGoals.png]]
+-  all visualizations are specific to audience and the question they answer
+	- one visualization cannot sufficiently answer all questions
+	- "Everything is best for something and worst for something else." - Bill Buxton
+- Who is the Audience?
+	- Guiding Questions
+		- What do they know? 
+		- What motivates them? 
+		- What experiences do you share? 
+		- What are common goals? 
+		- What insights can you give them? 
+		- What is the appropriate tone? 
+- Data Types
+	- Categorical
+	- Ordinal
+	- Quantitative
+- Design
+	- [[Marks & Channels]]
+	- [[Gestalt Principes]]
+	- [[CRAP Principles]]
+	- Subjective Dimensions
+		- Aesthetics
+			- Attractive things are perceived as more useful than unattractive ones
+		- Style
+			- Communicates brand, process, creator identity
+		- Playfulness
+			- Encourages experimentation and exploration
+		- Vividness
+			- Can make a visualization more memorable
+		- Audience
+			- Your visualization should be adapted to your audience
+- Dear Data
+- [[Visual Vocabulary]]
+- 
+- Change Blindness
+- Is there room for [[personal expression]]
+- Basic Principles
+	- Show a comparison.
+	- Show causality.
+	- Show multivariate data.
+	- Integrate as much evidence as you can.
+	- Describe and document your graphics well.
+	- Make sure you have something interesting to report.

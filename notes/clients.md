@@ -1,0 +1,2 @@
+- You are less likely to suffer decision fatigue when you're making decisions for someone else
+- Be able to explain your reasons/decisions regarding your design choices

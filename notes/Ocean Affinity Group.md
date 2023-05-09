@@ -1,0 +1,41 @@
+# Meeting 1
+- talk about what we want and need through some sort of framework
+- options
+	- stimulate ocean scholarship
+	- promote cross-lab collaborations
+	- increase awareness of on-campus resources
+	- break down disciplinary barriers across campus
+	- work together towards garnering additional resources
+- Assess who and where we are
+	- build our community, gauge our collective intellectual interest
+- Short term goals
+	- identify modest resources to develop our collective ideas such as cross-scoll programmming (science and art)
+	- identify how to best compliment existing programs
+		- HUCe, MSI, Origins, Mahindra, CGA, Center of Population and Development Studies
+			- **Q: What holes currently exist with these programs**
+			- these programs are each good, but don't cover the entire umbrella of what is going on in the ocean
+			- plenty of marine scientists that aren't connected to the environment at all
+			- in terms of resources, cross-share costs if things fall in each programs' wheelhouse
+			- the intention isn't to build a gigantic center, but to facilitate cross-talk between existing programs, and maybe exhances the mission of all the other centers
+			- 
+- Long term goals
+	- strategic fundraising the aligns with univeristy priorities
+	- partner with other institutions to provide access for our students and labs to ocean
+		- URI, WHOI, North Eastern
+			- **Q: What resources exist at each of these places**
+	- develop harvard-based ocean-centered program that leverages our strengths and compliments our existing programs
+- Collective Resources
+	- Just in Girguis Lab
+		- Field expeditions
+		- URI, RISD
+		- Engagement with UN policymakers
+			- **Q: When you provide advice on policymaking, is it just you, or a handful of scientists across. Would team-developed documents and responses be both possible in the current framework (I don't know what the process of providing feedback on these policies are), and doable?**
+		- oceanographic instrumention and samplers
+		- arts and events
+		- commecting yout o Schmidt, REV Ocean, Ocean Exploration Trust
+	- **Q: what would the organization for this affinity group look like? A board of directors from each representative group/program? **
+	- two main things
+		- database of resources, cataloging people, interests, missions, grants
+			- re people: interests, tools, skills, resources, and NEEDS
+		- developing a frame of communication between everything
+		- coordinating groups

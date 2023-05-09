@@ -1,0 +1,8 @@
+- questions to ask recruiters
+	- clarification on specific responsibilities
+	- what is the hiring process like
+	- what are your teams' goals for the next 6 months? 
+- prepare an elevator pitch
+	- ![[Pasted image 20230123122410.png]]
+	- ![[Pasted image 20230123122509.png]]
+	- 

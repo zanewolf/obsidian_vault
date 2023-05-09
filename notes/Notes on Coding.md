@@ -1,0 +1,7 @@
+- mutating state in code
+- jquery is old-hat? 
+- hoisting functions
+	- does hoisting require modules? 
+	- let vs const vs var re: hoisting in function versus block scope
+- callbacks
+- 

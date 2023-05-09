@@ -1,0 +1,14 @@
+---
+tags: dataviz
+---
+- The lifecycle of a [[Dashboard]]
+	- Birth: it is simple and pleasing and works
+	- Growth: people ask for specific features and it grows in complexity
+	- Multiplying: you need supplmental dashboards in order to fulfill all the requests, it is now a monster and the dashboard isn't updating cleanly because the files are so complicated
+	- Death: people can't use it or find what they are looking for, or avoid the dashboard
+	- Rebirth: you start over with a simple dashboard
+- The problem isn't the user, but using the dashboards as a solution for any data-driven problem to begin with
+	- "one dashboard to rule them all"
+	- a product for all audiences is useful to none of them- ![[Pasted image 20230504140055.png]]
+- ![[Pasted image 20230504140218.png]]
+- Inspire to feel, Explain to Understand, Inform to Decide, Provide to Explore

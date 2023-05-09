@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "-path:templates -path:weeklies -path:views -path:media -path:kanbans ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:0_Home",
+      "color": {
+        "a": 1,
+        "rgb": 7667712
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.2,
+  "nodeSizeMultiplier": 1.29947916666667,
+  "lineSizeMultiplier": 2.85625,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 0.479166666666667,
+  "linkDistance": 265,
+  "scale": 0.2588386562181628,
+  "close": false
+}

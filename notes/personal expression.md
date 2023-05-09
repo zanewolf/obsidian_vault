@@ -1,0 +1,1 @@
+How subjective are data visualizations? Of course one should always be wary of [[data manipulation]] but there is plenty of room for personalization in the aesthetics of the visualization, the communication aspect. 
